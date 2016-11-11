@@ -113,7 +113,7 @@ get_space () {
   echo $SPACES
 }
 
-_1LEFT="TESTTTTTTTTTTTTTTTTTT [ $_USERNAME ]"
+_1LEFT=" [ $_USERNAME ]"
 _1RIGHT="[ $_PATH | %* ] "
 
 max0004_precmd () {
